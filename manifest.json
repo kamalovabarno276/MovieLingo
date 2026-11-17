@@ -1,0 +1,10 @@
+{
+  "name": "MovieLingo",
+  "short_name": "MovieLingo",
+  "description": "Learn English through movies",
+  "start_url": "/MovieLingo/",
+  "scope": "/MovieLingo/",
+  "display": "standalone",
+  "background_color": "#080d1b",
+  "theme_color": "#080d1b"
+}
